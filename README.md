@@ -54,12 +54,6 @@
 
 ---
 
-## 🖼️ Preview
-
-> *Screenshot placeholder - Add your own screenshot here*
-
----
-
 ## 🔧 Requirements
 
 ### Software
